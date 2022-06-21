@@ -14,15 +14,35 @@
     <h4>Titulo h4</h4>
     <h5>Titulo h5</h5>
     <h6>Titulo h6</h6>
+    <article>
+        <h3>Parrafo 1</h3>
+        <p>
+            parrafo 1 Puede añadir texto de párrafo en un documento mediante marcos de texto. 
+            Texto de párrafo, también denominado "bloque de texto", generalmente está 
+            reservado a cuerpos de texto más grandes que tienen más requisitos de formato.
+        </p>
+        <h2>Parrafo 2</h2>
+        <p>
+            parrafo 2 Puede añadir texto de párrafo en un documento mediante marcos de texto. 
+            Texto de párrafo, también denominado "bloque de texto", generalmente está 
+            reservado a cuerpos de texto más grandes que tienen más requisitos de formato.
+        </p>
+        <h1>Parrafo 3</h1>
+        <p>
+            parrafo 3 Puede añadir texto de párrafo en un documento mediante marcos de texto. 
+            Texto de párrafo, también denominado "bloque de texto", generalmente está 
+            reservado a cuerpos de texto más grandes que tienen más requisitos de formato.
+        </p>
+        <spam>Esto es un texto corto</spam>
+    </article>
 
    </header>
    <main>
     <section>
-
-
+        fotos 
     </section>
     <section>
-        
+        tabla de datos
     </section>
 
    </main>
