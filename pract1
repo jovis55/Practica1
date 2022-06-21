@@ -39,6 +39,14 @@
         </p>
         <spam>Esto es un texto corto</spam>
     </article>
+    
+    <a href = "https://www.google.com/?hl=es">
+        <img srec = "https://empresas.blogthinkbig.com/wp-content/uploads/2019/11/Imagen3-245003649.jpg?w=800" alt = "imagen google" />
+    </a>
+    <a href = "./paginatest.html">
+        esta es una pagina test
+    </a>
+
     <img src="./media/descarga.jpg" alt="Foto de un chipsu" />
 
     </section>
