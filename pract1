@@ -14,7 +14,11 @@
     <h4>Titulo h4</h4>
     <h5>Titulo h5</h5>
     <h6>Titulo h6</h6>
-    <article>
+    
+   </header>
+   <main>
+    <section>
+        <article>
         <h3>Parrafo 1</h3>
         <p>
             parrafo 1 Puede añadir texto de párrafo en un documento mediante marcos de texto. 
@@ -35,11 +39,8 @@
         </p>
         <spam>Esto es un texto corto</spam>
     </article>
+    <img src="./media/descarga.jpg" alt="Foto de un chipsu" />
 
-   </header>
-   <main>
-    <section>
-        fotos 
     </section>
     <section>
         tabla de datos
